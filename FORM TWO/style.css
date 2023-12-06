@@ -1,0 +1,85 @@
+
+@import url('https://fonts.cdnfonts.com/css/google-sans');
+
+                
+*{
+    margin: 0;
+    padding: 0;
+}
+
+img{
+
+    object-fit: cover;
+    float: left;
+    width: 100vh;
+    max-height: 100vh;
+}
+.main-div{
+    display: flex;
+}
+ 
+#one, #two{
+    border-radius: 5px;
+    width: 55%;
+    margin-bottom: 2%;
+    height: 12%;
+    outline: none;
+    border: 1px solid #B2BEB5;
+    padding-left: 2%;
+    font-family: 'Product Sans Light', sans-serif;
+    color: #868b88 ;
+}
+.div-one{
+    float: right;
+    width: 50%;
+    
+}
+.div-two{
+    display: block;
+    float: right;
+    margin: 10%;
+    width: 50%;
+}
+
+#sign{
+    border-radius: 10px;
+    width: 58%;
+    margin-bottom: 2%;
+    height: 12%;
+    text-align: center;
+    background-color: #6675df;
+    color: #fefefe;
+    outline: none;
+    border: none;
+    
+}
+
+#sign2{
+    margin-left: 20%;
+    padding-bottom: 15%;
+    font-family: 'Product Sans Light', sans-serif;
+    color: #868b88 ;
+    margin-top: 5%;
+}
+
+#span1{
+    display: flex;
+}
+
+#rem{
+    margin-left: 18%;
+    font-family: 'Product Sans', sans-serif;
+    color: #383c39 ;
+    font-size: 13px;
+}
+h2{
+    color: #363a38 ;
+    margin-bottom: 2%;
+    font-family: 'Product Sans Thin', sans-serif;
+    margin-left: 10%;
+}
+#others{
+    font-family: 'Product Sans', sans-serif;
+    color: #868b88 ;
+    font-size: 13px;
+}
